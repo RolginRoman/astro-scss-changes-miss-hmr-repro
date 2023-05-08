@@ -1,5 +1,5 @@
 {
-  "name": "cyan-chasm",
+  "name": "astro-scss-changes-miss-hmr-repro",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -11,5 +11,9 @@
   },
   "dependencies": {
     "astro": "^2.4.1"
+  },
+  "devDependencies": {
+    "sass": "^1.62.1",
+    "scss": "^0.2.4"
   }
 }
